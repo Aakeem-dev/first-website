@@ -1,0 +1,50 @@
+.blog-post-card{
+  background: white;
+  border-radius: 2px;
+  width: 425px;
+  height: auto;
+  text-align: center;
+}
+body{
+  background-image: url(https://cdn.britannica.com/12/12-050-81DC7939/Flag-Ethiopia.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.post-img{
+  width : 100%;
+  height: auto;
+  border-bottom: 4px solid yellow;
+  border-radius: 0 0 20px 20px;
+}
+.post-content{
+  padding: 20px;
+}
+.post-title{
+  font-family: verdana;
+  color: green;
+  margin: 2px;
+}
+.post-excerpt{
+  font-family: ariel;
+  text-align: left;
+  color: brown;
+  margin: 20px;
+}
+.read-more{
+  color: yellow;
+  background-color: rgb(1, 112, 1);
+  margin: 10px;
+  padding: 5px;
+  border-radius: 4px;
+  display: inline-block;
+}
+.read-more:hover{
+  background-color: red;
+}
+.lava{
+  width: 100%;
+  border-radius: 20px;
+}
+
