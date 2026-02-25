@@ -1,8 +1,8 @@
 .blog-post-card{
-  background: white;
-  border-radius: 20px 20px 0 0;
+  background: yellow;
+  border-radius: 20px;
   width: 425px;
-  height: auto;
+  height: 700px;
   text-align: center;
 }
 body{
@@ -15,7 +15,7 @@ body{
 .post-img{
   width : 425px;
   height: auto;
-  border-bottom: 4px solid yellow;
+  border-bottom: 4px solid rgb(255, 255, 101);
   border-radius: 20px 20px 0 0;
 }
 .post-content{
@@ -45,6 +45,7 @@ body{
 }
 .lava{
   width: 425px;
+  height: auto;
   border-radius: 0 0 20px 20px;
 }
 
